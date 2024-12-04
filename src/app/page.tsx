@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { Carousel } from "./components/carousel";
 import { ScheduleButton } from "./components/scheduleButton";
-import { OvalForm1 } from "./components/oval/ovalForm1";
+
 //import HeroForme from  "../../public/HeroForme.svg"
 export default function Home() {
   return (
